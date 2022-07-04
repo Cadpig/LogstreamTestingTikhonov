@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F+65o7WCgCT+c3sa5hJ7jS0mckAWVxJYzFwTuYcucVZA+TQi37cnJ0u2YDnZFdZRjOJHg+9VUXjwNpxtWIQHTA==",
+  "dgSpecHash": "1mXi7atED6jW4FtouyZnHi9IdsSTrUuNn+UygZeUJ8DRG6ON242rSFh/a5D17PJVxWIJnsxeikL9CKBkvZBAXQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zenit\\Desktop\\Учеба\\6 семестр\\Практика\\Task1\\Task1\\Task1.csproj",
+  "projectFilePath": "C:\\Users\\zenit\\Desktop\\Учеба\\6 семестр\\Практика\\LogstreamTestingTikhonov\\Task1\\Task1\\Task1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zenit\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\zenit\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

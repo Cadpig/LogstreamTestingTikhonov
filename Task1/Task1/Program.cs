@@ -6,7 +6,7 @@ namespace Task1
     {
         public bool leapYear(int year)
         {
-            if (year <= 0)
+            if (year <= 0 || year > 3000)
                 throw new ArgumentOutOfRangeException(nameof(year));
             if ((year % 4 == 0 && year % 100 != 0) || (year % 400 == 0))
                 return true;

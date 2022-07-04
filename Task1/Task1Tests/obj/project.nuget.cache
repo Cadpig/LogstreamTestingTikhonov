@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xS89T3QlWQ+If3pSY/pbkJylcVVPhivg/vthZPCxEB6/NVu+K96HJNG37I/SDxjbckSKR6TcR2DLgNFJqC5zrA==",
+  "dgSpecHash": "wTQHaD4cuE327yH+IXC9xu+5GW7vgxCmIDo5qk1QaNyqRsIAJQG3BqKQpIe13fNa8ECZxTqZ9xGvkgZ1F3AqAw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zenit\\Desktop\\Учеба\\6 семестр\\Практика\\Task1\\Task1Tests\\Task1Tests.csproj",
+  "projectFilePath": "C:\\Users\\zenit\\Desktop\\Учеба\\6 семестр\\Практика\\LogstreamTestingTikhonov\\Task1\\Task1Tests\\Task1Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zenit\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
     "C:\\Users\\zenit\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",

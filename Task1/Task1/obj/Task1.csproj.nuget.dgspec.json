@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zenit\\Desktop\\Учеба\\6 семестр\\Практика\\Task1\\Task1\\Task1.csproj": {}
+    "C:\\Users\\zenit\\Desktop\\Учеба\\6 семестр\\Практика\\LogstreamTestingTikhonov\\Task1\\Task1\\Task1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zenit\\Desktop\\Учеба\\6 семестр\\Практика\\Task1\\Task1\\Task1.csproj": {
+    "C:\\Users\\zenit\\Desktop\\Учеба\\6 семестр\\Практика\\LogstreamTestingTikhonov\\Task1\\Task1\\Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zenit\\Desktop\\Учеба\\6 семестр\\Практика\\Task1\\Task1\\Task1.csproj",
+        "projectUniqueName": "C:\\Users\\zenit\\Desktop\\Учеба\\6 семестр\\Практика\\LogstreamTestingTikhonov\\Task1\\Task1\\Task1.csproj",
         "projectName": "Task1",
-        "projectPath": "C:\\Users\\zenit\\Desktop\\Учеба\\6 семестр\\Практика\\Task1\\Task1\\Task1.csproj",
+        "projectPath": "C:\\Users\\zenit\\Desktop\\Учеба\\6 семестр\\Практика\\LogstreamTestingTikhonov\\Task1\\Task1\\Task1.csproj",
         "packagesPath": "C:\\Users\\zenit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zenit\\Desktop\\Учеба\\6 семестр\\Практика\\Task1\\Task1\\obj\\",
+        "outputPath": "C:\\Users\\zenit\\Desktop\\Учеба\\6 семестр\\Практика\\LogstreamTestingTikhonov\\Task1\\Task1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
