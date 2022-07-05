@@ -1,0 +1,159 @@
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\TikhonovWebsite.exe
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\TikhonovWebsite.deps.json
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\TikhonovWebsite.runtimeconfig.json
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\TikhonovWebsite.runtimeconfig.dev.json
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\TikhonovWebsite.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\TikhonovWebsite.pdb
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\TikhonovWebsite.Views.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\TikhonovWebsite.Views.pdb
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\TikhonovWebsite.csproj.AssemblyReference.cache
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\TikhonovWebsite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\TikhonovWebsite.AssemblyInfoInputs.cache
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\TikhonovWebsite.AssemblyInfo.cs
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\TikhonovWebsite.csproj.CoreCompileInputs.cache
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\TikhonovWebsite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\TikhonovWebsite.RazorAssemblyInfo.cache
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\TikhonovWebsite.RazorAssemblyInfo.cs
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\staticwebassets\TikhonovWebsite.StaticWebAssets.Manifest.cache
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\TikhonovWebsite.TagHelpers.input.cache
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\TikhonovWebsite.TagHelpers.output.cache
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\TikhonovWebsite.RazorCoreGenerate.cache
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\TikhonovWebsite.RazorTargetAssemblyInfo.cache
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\TikhonovWebsite.RazorTargetAssemblyInfo.cs
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\TikhonovWebsite.Views.pdb
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\TikhonovWebsite.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\TikhonovWebsite.pdb
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\TikhonovWebsite.genruntimeconfig.cache
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\TikhonovWebsite.csproj.CopyComplete
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Electronics\Show.cshtml.g.cs
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Electronics\Product.cshtml.g.cs
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Electronics\Master.cshtml.g.cs
+C:\Users\zenit\source\repos\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Electronics\Search.cshtml.g.cs
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\TikhonovWebsite.exe
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\TikhonovWebsite.deps.json
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\TikhonovWebsite.runtimeconfig.json
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\TikhonovWebsite.runtimeconfig.dev.json
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\TikhonovWebsite.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\TikhonovWebsite.pdb
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\TikhonovWebsite.Views.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\TikhonovWebsite.Views.pdb
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Castle.Core.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Moq.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Moq.EntityFrameworkCore.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\TikhonovWebsite.csproj.AssemblyReference.cache
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\TikhonovWebsite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\TikhonovWebsite.AssemblyInfoInputs.cache
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\TikhonovWebsite.AssemblyInfo.cs
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\TikhonovWebsite.csproj.CoreCompileInputs.cache
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\TikhonovWebsite.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\TikhonovWebsite.RazorAssemblyInfo.cache
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\TikhonovWebsite.RazorAssemblyInfo.cs
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\staticwebassets\TikhonovWebsite.StaticWebAssets.Manifest.cache
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\TikhonovWebsite.TagHelpers.input.cache
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\TikhonovWebsite.TagHelpers.output.cache
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\TikhonovWebsite.RazorCoreGenerate.cache
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Electronics\Master.cshtml.g.cs
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Electronics\Product.cshtml.g.cs
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Electronics\Search.cshtml.g.cs
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Electronics\Show.cshtml.g.cs
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\TikhonovWebsite.RazorTargetAssemblyInfo.cache
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\TikhonovWebsite.RazorTargetAssemblyInfo.cs
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\TikhonovWebsite.Views.pdb
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\TikhonovWebsite.csproj.CopyComplete
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\TikhonovWebsite.dll
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\TikhonovWebsite.pdb
+C:\Users\zenit\Desktop\Учеба\6 семестр\Практика\LogstreamTestingTikhonov\Task2\TikhonovWebsite\TikhonovWebsite\obj\Debug\netcoreapp3.1\TikhonovWebsite.genruntimeconfig.cache

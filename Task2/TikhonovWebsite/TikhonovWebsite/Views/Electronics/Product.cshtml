@@ -1,0 +1,10 @@
+﻿@using TikhonovWebsite.DBContext;
+@{
+    Layout = "Master.cshtml";
+}
+    
+<h1>@ViewBag.Product.Title</h1>         
+    <p>@ViewBag.Product.Price</p>
+    <img src="/images/@(ViewBag.Product.Id).jpg" alt="@ViewBag.Product.Title" width="200" height="160"/>
+    <p>@ViewBag.Product.Specifications</p>
+    <p>@ViewBag.Product.Description</p>

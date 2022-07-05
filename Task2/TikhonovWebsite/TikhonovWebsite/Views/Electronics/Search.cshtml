@@ -1,0 +1,16 @@
+﻿@using TikhonovWebsite.DBContext;
+@{
+    Layout = "Master.cshtml";
+}
+
+<span>По вашему запросу найдено: @ViewBag.Product.Count публикаций</span>
+@foreach (Product p in ViewBag.Product)
+    {
+        <div class="col-lg-6 col-sm-12">
+                  <div class="beds_section active">
+                     <h1 class="bed_text"><a href="/Electronics/Product/@p.Path">@p.Title</a></h1>
+                     <div class="seemore_bt">@p.Price</div>
+                     <div><img src="/images/@(p.Id).jpg" alt="@p.Title" width="200" height="160" class="image_2"></div>
+                  </div>
+            </div>
+    }
